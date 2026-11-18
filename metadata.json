@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceLens",
+  "description": "Estrazione automatica di dati contabili da fatture JPG, PNG e PDF con tabella di verifica modificabile ed esportazione Excel (.xlsx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
